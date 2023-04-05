@@ -1,5 +1,3 @@
-package ca.yorku.eecs.mack.democamera76375;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Configuration;
